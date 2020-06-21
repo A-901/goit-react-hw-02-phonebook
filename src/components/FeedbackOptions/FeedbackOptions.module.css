@@ -1,0 +1,17 @@
+.feedbackSection {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+}
+.feedbackButton {  
+  padding: 10px;  
+  border: 2px solid black;
+  background: transparent;
+  width: 30%;
+  display: block;  
+}
+.feedbackButton:hover {
+  background: purple;
+}
